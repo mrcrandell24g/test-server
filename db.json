@@ -6,7 +6,7 @@
       "media": "https://fillmurray.com/200/300",
       "copy": "This is some copy.",
       "points": "100",
-      "isTrivia": false
+      "isTrivia": "false"
     },
     {
       "id": "A4BICY",
@@ -14,7 +14,7 @@
       "media": "https://fillmurray.com/200/300",
       "copy": "This is some copy.",
       "points": "150",
-      "isTrivia": true
+      "isTrivia": "true"
     }
   ]
 }
