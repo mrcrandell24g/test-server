@@ -1,0 +1,20 @@
+{
+  "qrCodes": [
+    {
+      "id": "A4BITY",
+      "stamp": "Test stamp",
+      "media": "https://fillmurray.com/200/300",
+      "copy": "This is some copy.",
+      "points": "100",
+      "isTrivia": false
+    },
+    {
+      "id": "A4BICY",
+      "stamp": "Test stamp 2",
+      "media": "https://fillmurray.com/200/300",
+      "copy": "This is some copy.",
+      "points": "150",
+      "isTrivia": true
+    },
+  ]
+}
