@@ -1,6 +1,17 @@
 {
   "qrCodes":[
     {
+			"id":"eccfc97b-e5c5-4dff-9106-c469cc73c48d",
+			"stampCategoryId":"2",
+			"name":"Sam Snead Bust",
+			"text":"Greensboro honored Sam Snead in 1965 on the occasion of his 25th appearance in the GGO, and at the banquet celebration, famed TV host Ed Sullivan allowed as how it would really be nice if \"old Sam would go out there and win again.\" Few thought it possible, for Sam was nearing his 53rd birthday. But in his response, Snead squinted into the bright lights and said, \"Them young fellers better watch out. I just might do it.\" And do it he did, posting four sub-70 scores at Sedgefield against the likes of Arnold Palmer, Gary Player, Billy Casper and Julius Boros in their prime to win his eighth GGO at age 52 years, 10 months and 8 days. It was a PGA TOUR record that still stands almost 50 years later.",
+			"stampUrl":"https://wynpointsparadise.com/code/DZBNKW",
+			"videoUrl":"null",
+			"order":"1",
+			"points":"100",
+			"isDisplayed":"null",
+		},
+    {
       "id":"A4BITY",
       "stamp":"Test stamp",
       "media":"https://fillmurray.com/200/300",
